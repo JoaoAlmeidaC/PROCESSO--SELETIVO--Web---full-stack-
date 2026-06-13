@@ -186,7 +186,7 @@ Para entrar, utilize um dos usuários abaixo:
 | Nome | E-mail | Senha | Perfil |
 |------|--------|-------|--------|
 | Administrador | admin@lexPanel.com | admin123 | admin |
-| Dr. Carlos Mendes | carlos@lexPanel.com | carlos123 | advogado |
+
 
 ---
 
