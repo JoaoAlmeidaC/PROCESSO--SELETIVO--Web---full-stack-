@@ -192,7 +192,6 @@ Para entrar, utilize um dos usuários abaixo:
 
 O arquivo tem esse formato:
 
-```json
 [
   {
     "id": 1,
@@ -200,13 +199,6 @@ O arquivo tem esse formato:
     "email": "admin@lexPanel.com",
     "senha": "admin123",
     "role": "admin"
-  },
-  {
-    "id": 2,
-    "nome": "Dr. Carlos Mendes",
-    "email": "carlos@lexPanel.com",
-    "senha": "carlos123",
-    "role": "advogado"
   }
 ]
 ```
