@@ -193,6 +193,7 @@ Para entrar, utilize um dos usuários abaixo:
 O arquivo tem esse formato:
 
 
+[
   {
     "id": 1,
     "nome": "Administrador",
@@ -201,7 +202,6 @@ O arquivo tem esse formato:
     "role": "admin"
   }
 ]
-```
 
 Para adicionar ou editar um usuário, basta abrir esse arquivo e alterar diretamente. Depois reinicie o back-end para as mudanças surtirem efeito.
 
