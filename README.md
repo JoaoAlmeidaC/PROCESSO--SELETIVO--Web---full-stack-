@@ -157,3 +157,62 @@ juridico/
 - Testes com Jest (back-end) e Vitest + Testing Library (front-end)
 - CI/CD com GitHub Actions
 - Dark mode via toggle na topbar
+
+***EXTRAS***
+
+## Telas do sistema
+
+### Login
+A tela de login é a porta de entrada do sistema. Apenas usuários cadastrados conseguem acessar.
+
+Para entrar, utilize um dos usuários abaixo:
+
+| Nome | E-mail | Senha | Perfil |
+|------|--------|-------|--------|
+| Administrador | admin@lexPanel.com | admin123 | admin |
+| Dr. Carlos Mendes | carlos@lexPanel.com | carlos123 | advogado |
+
+---
+
+## Como editar os usuários
+
+## Telas do sistema
+
+### Login
+A tela de login é a porta de entrada do sistema. Apenas usuários cadastrados conseguem acessar.
+
+Para entrar, utilize um dos usuários abaixo:
+
+| Nome | E-mail | Senha | Perfil |
+|------|--------|-------|--------|
+| Administrador | admin@lexPanel.com | admin123 | admin |
+| Dr. Carlos Mendes | carlos@lexPanel.com | carlos123 | advogado |
+
+---
+
+O arquivo tem esse formato:
+
+```json
+[
+  {
+    "id": 1,
+    "nome": "Administrador",
+    "email": "admin@lexPanel.com",
+    "senha": "admin123",
+    "role": "admin"
+  },
+  {
+    "id": 2,
+    "nome": "Dr. Carlos Mendes",
+    "email": "carlos@lexPanel.com",
+    "senha": "carlos123",
+    "role": "advogado"
+  }
+]
+```
+
+Para adicionar ou editar um usuário, basta abrir esse arquivo e alterar diretamente. Depois reinicie o back-end para as mudanças surtirem efeito.
+
+---
+
+#Esses arquivos podem ser editados diretamente para adicionar, remover ou alterar registros. Após qualquer edição, reinicie o back-end.
