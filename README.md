@@ -192,7 +192,7 @@ Para entrar, utilize um dos usuários abaixo:
 
 O arquivo tem esse formato:
 
-[
+
   {
     "id": 1,
     "nome": "Administrador",
