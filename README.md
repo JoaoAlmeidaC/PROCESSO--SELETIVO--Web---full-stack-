@@ -18,8 +18,7 @@ cd backend
 npm install
 npm start
 # Servidor disponível em http://localhost:3001
-```
-Clicar no localhost para abrir a aplicação 
+``` 
 
 Para desenvolvimento com hot-reload (Node 18+):
 
@@ -51,6 +50,7 @@ npm install
 npm run dev
 # Aplicação disponível em http://localhost:5173
 ```
+Clicar no localhost para abrir a aplicação
 
 > O front-end espera o back-end em `http://localhost:3001`. Ambos devem estar rodando simultaneamente.
 
