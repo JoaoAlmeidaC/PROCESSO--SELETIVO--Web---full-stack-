@@ -19,6 +19,7 @@ npm install
 npm start
 # Servidor disponível em http://localhost:3001
 ```
+Clicar no localhost para abrir a aplicação 
 
 Para desenvolvimento com hot-reload (Node 18+):
 
