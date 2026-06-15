@@ -10,7 +10,7 @@ Aplicação web full stack para visualização, pesquisa e análise de atendimen
 - npm **v9+**
 
 ---
-Lembrando que é necessário abrir dois terminais para iniciar o projeto.
+Lembrando que é necessário abrir dois terminais para iniciar o projeto. Recomendo o VScode
 ## 1. Executar o Back-end
 
 ```bash
